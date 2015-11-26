@@ -1,9 +1,6 @@
 ---
-title: PirateGrunt
+title: Index
 layout: page
 ---
 
-* MRMR
-* OriginPeriod
-* Blog
-* R Actuarial Workshops - raw
+This is a website where Leia reviews movies. Click on a link to the left to read one!

@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-site:         
+site:             PirateGrunt.com 
 baseurl:          /LeiaMovieReviews
 title:            LeiaMovieReview
 tagline:          'Movie reviews by Leia'

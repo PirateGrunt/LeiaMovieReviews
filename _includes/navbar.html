@@ -15,7 +15,7 @@
   {% for post in site.posts %}
 
     <li>
-      <a class="sidebar-nav-item {% if page.url == post.url %} active {% endif %}" href="{{ post.url }}">{{ post.title }}</a>
+      <a class="sidebar-nav-item {% if page.url == post.url %} active {% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
     
   {% endfor %}
