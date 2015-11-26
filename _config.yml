@@ -8,18 +8,16 @@ relative_permalinks: true
 
 # Setup
 site:         
-title:            PirateGrunt
-tagline:          'Pirate Grunt'
-description:      'Pirates, grunts, etc'
+baseurl:          LeiaMovieReviews
+title:            LeiaMovieReview
+tagline:          'Movie reviews by Leia'
+description:      'Movie reviews by Leia'
 theme:            Superhero
 
 author:
-  name:           'Brian A. Fannin'
+  name:           'Leia Fannin'
 
 paginate:         5
 
 # Custom vars
 version:          1.0.0
-
-github:
-  repo:           https://github.com/PirateGrunt/PirateGrunt.github.io
