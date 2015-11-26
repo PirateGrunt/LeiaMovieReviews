@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 site:             PirateGrunt.com 
 baseurl:          /LeiaMovieReviews
-title:            LeiaMovieReview
+title:            Leia Movie Reviews
 tagline:          'Movie reviews by Leia'
 description:      'Movie reviews by Leia'
 theme:            Superhero
