@@ -2,16 +2,10 @@
 
 <p class="lead">{{ site.description }}</p>
 
-<ul class="nav nav-sidebar">
-
+<ul class="nav nav-sidebar collapse" id="sidebar-nav">
+  
   <li><a href="{{ site.url }}{{ site.baseurl }}/index.html">Home</a></li>
 
-  {% comment %}
-    The code below dynamically generates a sidebar nav of pages with `layout: page` in the 
-    front-matter. See readme for usage.
-  {% endcomment %}
-
-  
   {% for post in site.posts %}
 
     <li>
