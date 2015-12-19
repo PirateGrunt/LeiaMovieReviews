@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         Kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+site:             PirateGrunt.com 
+baseurl:          /LeiaMovieReviews
+title:            Leia Movie Reviews
+tagline:          'Movie reviews by Leia'
+description:      'Movie reviews by Leia'
+theme:            Superhero
+
+author:
+  name:           'Leia Fannin'
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
