@@ -11,7 +11,7 @@ baseurl:          /LeiaMovieReviews
 title:            Leia Movie Reviews
 tagline:          'Movie reviews by Leia'
 description:      'Movie reviews by Leia'
-theme:            Superhero
+#theme:            Superhero
 
 author:
   name:           'Leia Fannin'
